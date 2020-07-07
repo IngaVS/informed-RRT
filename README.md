@@ -1,2 +1,2 @@
-# informed-RRT-
+# informed-RRT
 RRT/RRT*/informed-RRT*
