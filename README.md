@@ -4,6 +4,7 @@ motion planning course
 RRT/RRT*/informed-RRT*
 
 RRT:
+
 Step 1: 在地图中随机采样一个点x_rand
 
 Step 2: 遍历树，从树中找到最近邻近点x_near
@@ -18,7 +19,9 @@ Step 6:将x_near和x_new之间的路径画出来
 
 
 
+
 RRT*:
+
 Step 1: 在地图中随机采样一个点x_rand
 
 Step 2: 在x_new附近范围内寻找最近x_near
